@@ -2,3 +2,4 @@ onlyoffice/documentserver
 gtstef/filebrowser
 onlyoffice/communityserver:latest
 ghcr.io/c4illin/convertx
+docker.stirlingpdf.com/stirlingtools/stirling-pdf:latest
