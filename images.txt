@@ -1,1 +1,1 @@
-docker.io/jumpserver/core-base:20250805_083232
+docker.io/library/stage-build:latest
