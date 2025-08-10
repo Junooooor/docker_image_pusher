@@ -1,1 +1,1 @@
-docker.io/library/python:3.11-slim-bullseye
+docker.io/jumpserver/core-base:20250805_083232
