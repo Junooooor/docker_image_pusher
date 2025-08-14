@@ -1,1 +1,1 @@
-e: xxxxrt666/gpt-sovits:latest-cu126
+ghcr.io/2noise/chattts:latest
