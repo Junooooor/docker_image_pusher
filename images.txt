@@ -1,1 +1,1 @@
-ghcr.io/2noise/chattts:latest
+jitsi/jicofo
