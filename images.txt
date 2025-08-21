@@ -1,1 +1,1 @@
-docker.io/jitsi/jicofo
+qalabeabbas49/sd-indextts:latest
