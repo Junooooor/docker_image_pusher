@@ -1,1 +1,1 @@
-qalabeabbas49/sd-indextts
+vcure/whisperlivekit:v0.1.6
