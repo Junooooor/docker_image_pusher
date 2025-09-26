@@ -1,1 +1,1 @@
-vcure/whisperlivekit:v0.1.6
+xxxxrt666/gpt-sovits:latest-cu128
